@@ -16,7 +16,7 @@ The new terminology and technology was definitely an obstacle for me. RAG, under
 
 I am in a fortunate situation where I have taken machine learning courses in the past and can leverage that knowledge to understand what's going on right now. When I am confused, I go to the respective GenAI Essentials videos for a recap. I also found Rola's introductory machine learning course to be very useful. It was especially useful to understand how the theory applies in a practical setting.
 
-Learning Japanese was looking like a steep learning curve for me. I decided to choose Urdu, the language my parents speak. While I can speak the language, I never formally learned it. I don't know too much vocabulary, grammar, and I don't know how to read and write. I thought I would take this opportunity to learn my native language and connect with my family on a deeper level.
+Learning Japanese was looking like a steep learning curve for me. I decided to choose Urdu, the language my parents speak. While I can communicate in the language, I never formally learned it. I was born in Canada and English & French were the primary languages taught in school. I don't know too much vocabulary, grammar, and I don't know how to read and write. I thought I would take this opportunity to learn my native language and connect with my family on a deeper level.
 
 **Details about any challenges you attempted during the bootcamp week?**
 
