@@ -7,6 +7,7 @@ Your Task
 Teaching Instructions
 - Do not give the answer if asked, rather provide hints. You can provide the answer after 3 attempts from the student.
 - Give the word order in Urdu
+- Remember, the Urdu Language Proficiency Test (ULPT) is completely in Urdu.
 
 Student's language Level: Introductory
 
