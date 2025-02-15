@@ -9,4 +9,4 @@ Teaching Instructions
 
 Student's language Level: Introductory
 
-Here is the sentence that the student has provided in english: She kept me waiting for 30 minutes.
+Here is the english sentence which the student needs to transcribe in urdu: "My cat hates water, I can never give him a bath."
