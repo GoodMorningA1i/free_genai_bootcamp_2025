@@ -1,4 +1,4 @@
-# Backend Server Technical Specs
+# Backend Technical Specs
 
 ## Business Goal: 
 
@@ -56,3 +56,7 @@ many to many
 - GET /groups
 - GET /groups/:id
 - GET /groups/:id/words
+
+- GET /dashboard/last-study-session
+- GET /dashboard/study-progress
+- GET /dashboard/quick-stats
