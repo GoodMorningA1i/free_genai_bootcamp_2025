@@ -51,12 +51,20 @@ many to many
 
 ### API Endpoints
 
-- GET /words
-- GET /words/:id
-- GET /groups
-- GET /groups/:id
-- GET /groups/:id/words
+- GET /api/words
+- GET /api/words/:id
+- GET /api/groups
+- GET /api/groups/:id
+- GET /api/groups/:id/words
 
-- GET /dashboard/last-study-session
-- GET /dashboard/study-progress
-- GET /dashboard/quick-stats
+- GET /api/dashboard/last-study-session
+- GET /api/dashboard/study-progress
+- GET /api/dashboard/quick-stats
+
+- GET /api/study_activities
+
+- GET /api/study_activities/:id
+- GET /api/study_activities/:id/study_sessions
+
+- POST /api/study_activities/
+    - required_params: group_id, study_activity_id
