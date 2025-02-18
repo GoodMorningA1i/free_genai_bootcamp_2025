@@ -51,12 +51,6 @@ many to many
 
 ### API Endpoints
 
-- GET /api/words
-- GET /api/words/:id
-- GET /api/groups
-- GET /api/groups/:id
-- GET /api/groups/:id/words
-
 - GET /api/dashboard/last-study-session
 - GET /api/dashboard/study-progress
 - GET /api/dashboard/quick-stats
@@ -68,3 +62,25 @@ many to many
 
 - POST /api/study_activities/
     - required_params: group_id, study_activity_id
+
+- GET /api/words
+    - pagination with 100 items per page
+
+- GET /api/words/:id
+
+- GET /api/groups
+    - pagination with 100 items per page 
+
+- GET /api/groups/:id
+- GET /api/groups/:id/words
+- GET /api/groups/:id/study_sessions
+
+GET /api/study_sessions
+
+- GET /api/study_sessions/:id 
+- GET /api/study_sessions/:id/words
+
+- POST /api/settings/reset-history
+- POST /api/settings/full_reset
+
+- POST /api/study_sessions/:id/word_id/review
