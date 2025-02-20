@@ -51,9 +51,43 @@ many to many
 
 ## API Endpoints
 
-- GET /api/dashboard/last-study-session
-- GET /api/dashboard/study-progress
-- GET /api/dashboard/quick-stats
+### GET /api/dashboard/last-study-session
+
+#### JSON Response
+```json
+{
+    "id": integer,
+    "group_id": integer,
+    "created_at": datetime,
+    "study_activity_id": integer
+    "last_used": datetime
+}
+```
+
+### GET /api/dashboard/study-progress
+
+#### JSON Response
+```json
+{
+    "total_words_studied": integer,
+    "total_available_words": integer
+}
+```
+
+### GET /api/dashboard/quick-stats
+
+#### JSON Response
+```json
+{
+    "total_words_studied": integer,
+    "total_correct": integer,
+    "total_mastered": integer,
+    "total_sessions": integer,
+    "total_active_groups": integer,
+    "study_streak": integer
+}
+```
+
 
 - GET /api/study_activities
 
