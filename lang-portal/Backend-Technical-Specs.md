@@ -89,13 +89,66 @@ many to many
 ```
 
 
-- GET /api/study_activities
+### GET /api/study-activities
 
-- GET /api/study_activities/:id
-- GET /api/study_activities/:id/study_sessions
+#### JSON Response
+```json
+{
+    "id": integer,
+    "group_id": integer,
+    "study_activity_id": integer,
+    "created_at": datetime
+}
+```
 
-- POST /api/study_activities/
-    - required_params: group_id, study_activity_id
+### GET /api/study-activities/:id
+
+#### JSON Response
+```json
+{
+    "id": integer,
+    "name": string,
+    "thumbnail_url": string,
+    "description": string
+}
+```
+
+### GET /api/study-activities/:id/study_sessions
+
+#### JSON Response
+```json
+{
+    "items": [
+        {
+            "id": integer,
+            "activity_name": string,
+            "created_at": datetime,
+            "end_time": datetime,
+            "number_of_review_items": integer
+        }
+    ],
+    "pagination": {
+        "current_page": integer,
+        "total_pages": integer,
+        "total_items": integer,
+        "items_per_page": integer
+    }
+}
+```
+
+### POST /api/study-activities/
+
+#### Request Parameters
+- group_id integer
+- study_activity_id integer
+
+#### JSON Response
+```json
+{
+    "id": integer,
+    "group_id": integer
+}
+```
 
 - GET /api/words
     - pagination with 100 items per page

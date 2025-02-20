@@ -35,7 +35,7 @@ We'll need the following API endpoints to power this page:
 - GET /api/dashboard/study-progress
 - GET /api/dashboard/quick-stats
 
-### Study Activities Index / `/api/study_activities`
+### Study Activities Index / `/api/study-activities`
 
 #### Purpose
 
@@ -52,10 +52,10 @@ The purpose of this page is to show a collection of study activities, with a thu
 
 #### Needed API Endpoints
 
-- GET /api/study_activities
+- GET /api/study-activities
 
 
-### Study Activity Show / `/api/study_activities/:id`
+### Study Activity Show / `/api/study-activities/:id`
 
 #### Purpose
 
@@ -76,10 +76,10 @@ The purpose of this page is to show the details of a study activity and its past
 
 #### Needed API Endpoints
 
-- GET /api/study_activities/:id
-- GET /api/study_activities/:id/study_sessions
+- GET /api/study-activities/:id
+- GET /api/study-activities/:id/study_sessions
 
-## Study Activities Launch `/api/study_activities/:id/launch`
+## Study Activities Launch `/api/study-activities/:id/launch`
 
 #### Purpose
 
@@ -97,7 +97,7 @@ After the form is submitted, a new tab opens with the study activity based on it
 After the form is submitted, the page will redirect to the study session show page.
 
 #### Needed API Endpoints
-- POST /api/study_activities/
+- POST /api/study-activities/
 
 ### Words Index `/api/words `
 
