@@ -49,7 +49,7 @@ many to many
     - correct boolean
     - created_at datetime
 
-### API Endpoints
+## API Endpoints
 
 - GET /api/dashboard/last-study-session
 - GET /api/dashboard/study-progress
