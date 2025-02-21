@@ -114,6 +114,7 @@ many to many
 ```
 
 ### GET /api/study-activities/:id/study_sessions
+    - pagination with 100 items per page
 
 #### JSON Response
 ```json
@@ -150,16 +151,110 @@ many to many
 }
 ```
 
-- GET /api/words
+### GET /api/words
     - pagination with 100 items per page
 
-- GET /api/words/:id
+#### JSON Response
+```json
+{
+    "items": [
+        {
+            "urdu": string,
+            "roman_urdu": string,
+            "english": string,
+            "correct_count": integer,
+            "wrong_count": integer
+        }
+    ],
+    "pagination": {
+        "current_page": integer,
+        "total_pages": integer,
+        "total_items": integer,
+        "items_per_page": integer
+    }
+}
+```
 
-- GET /api/groups
+### GET /api/words/:id
+
+#### JSON Response
+```json
+{
+    "urdu": string,
+    "roman_urdu": string,
+    "english": string,
+    "stats": {
+        "correct_count": integer,
+        "wrong_count": integer
+    },
+    "groups": [
+        {
+            "id": integer,
+            "name": string
+        }
+    ]
+}
+```
+
+### GET /api/groups
     - pagination with 100 items per page 
 
-- GET /api/groups/:id
-- GET /api/groups/:id/words
+#### JSON Response
+```json
+{
+    "items": [
+        {
+            "id": integer,
+            "name": string,
+            "words_count": integer
+        }
+    ],
+    "pagination": {
+        "current_page": integer,
+        "total_pages": integer,
+        "total_items": integer,
+        "items_per_page": integer
+    }
+}
+```
+
+### GET /api/groups/:id
+
+#### JSON Response
+```json
+{
+    "id": integer,
+    "name": string,
+    "stats": {
+        "total_words_count": integer
+    }
+}
+```
+
+### GET /api/groups/:id/words
+
+#### JSON Response
+```json
+{
+    "items": [
+        {
+            "id": integer,
+            "urdu": string,
+            "roman_urdu": string,
+            "english": string,
+            "correct_count": integer,
+            "wrong_count": integer
+        }
+    ],
+    "pagination": {
+        "current_page": integer,
+        "total_pages": integer,
+        "total_items": integer,
+        "items_per_page": integer
+    }
+}
+```
+
 - GET /api/groups/:id/study_sessions
 
 GET /api/study_sessions
