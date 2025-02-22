@@ -21,4 +21,9 @@ Learning Japanese was looking like a steep learning curve for me. I decided to c
 **Details about any challenges you attempted during the bootcamp week?**
 
 1. I am still unsure about some machine learning terminology. I've been taking Andrew Ng's machine learning specialization course on the side to gain a better understanding.
-2. Using free tier versions of LLM. I do want the full capability of the model, but I don't want to fall into the trap of using money to solve my problems. I've been exploring free versions before investing into models with money. This is a work in progress. 
+2. Using free tier versions of LLM. I do want the full capability of the model, but I don't want to fall into the trap of using money to solve my problems. I've been exploring free versions before investing into models with money. This is a work in progress.
+
+## Week 2 Standup
+Fri, Feb 21, 2025
+
+Getting to this standup quite late, I should technically be wrapping up with Week 3 right now. I wrote the backend and frontend technical requiremenets, and I started working on some of the backend code. It was really interesting to see Windsurf leverage the techincal requirements to do some of the backend work for me. I'm curious to see how it would do the same for the frontend. Unfortunately, I need to start moving along with Week 3 and then Week 4 starting tomorrow. So I'll probably just use the standard backend and frontend that Andrew created. I'll begin Week 3 and Week 4 work by Monday. I should be clear of my other commitments by then.
