@@ -27,3 +27,10 @@ Learning Japanese was looking like a steep learning curve for me. I decided to c
 Fri, Feb 21, 2025
 
 Getting to this standup quite late, I should technically be wrapping up with Week 3 right now. I wrote the backend and frontend technical requiremenets, and I started working on some of the backend code. It was really interesting to see Windsurf leverage the techincal requirements to do some of the backend work for me. I'm curious to see how it would do the same for the frontend. Unfortunately, I need to start moving along with Week 3 and then Week 4 starting tomorrow. So I'll probably just use the standard backend and frontend that Andrew created. I'll begin Week 3 and Week 4 work by Monday. I should be clear of my other commitments by then.
+
+## Week 3 Standup
+Sat, Feb 22, 2025
+
+Not much of an update since yesterday. Will be rigourously catching up on Week 3 and Week 4 this coming week. Attended both lectures, watched most of the videos for Week 3. Didn't get the chance to implement the Language Learning App though from Week 3. We had Week 4 lecture today and saw some cool topics covered with James. We went over Kubernetes, Docker, the concepts of containers, and creating service classes. Can't wait to get started on this.
+
+Note: I think the lectures are 0-index based. So Week 1 was referred to Week 0 and Week 4 is referred to Week 3. I'm just sticking with 1-indexed based xD
