@@ -10,5 +10,13 @@ streamlit run frontend/main.py
 cd backend
 pip install -r requirements.txt
 cd ..
-python backend/chat.py
+python backend/get_transcript.py
 ```
+
+`chat.py` and `rag.py` are still in-progress, so running them will cause an error
+
+## Inspiration
+
+https://github.com/omenking/language-learning-assistant
+
+Thank you Andrew Brown and Du'An Lightfoot!
