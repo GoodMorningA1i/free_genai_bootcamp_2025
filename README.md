@@ -34,3 +34,8 @@ Sat, Feb 22, 2025
 Not much of an update since yesterday. Will be rigourously catching up on Week 3 and Week 4 this coming week. Attended both lectures, watched most of the videos for Week 3. Didn't get the chance to implement the Language Learning App though from Week 3. We had Week 4 lecture today and saw some cool topics covered with James. We went over Kubernetes, Docker, the concepts of containers, and creating service classes. Can't wait to get started on this.
 
 Note: I think the lectures are 0-index based. So Week 1 was referred to Week 0 and Week 4 is referred to Week 3. I'm just sticking with 1-indexed based xD
+
+## Week 4 Standup
+Tues, March 4, 2025
+
+Lots and lots of catching up. Wrapped up week 2 over the weekend and submitted week 3 today. Not completed, but at least trying to submit consistently to show some of the work I've been doing. Now working on Week 4 and Week 5 before this coming Saturday.
