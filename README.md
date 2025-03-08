@@ -39,3 +39,6 @@ Note: I think the lectures are 0-index based. So Week 1 was referred to Week 0 a
 Tues, March 4, 2025
 
 Lots and lots of catching up. Wrapped up week 2 over the weekend and submitted week 3 today. Not completed, but at least trying to submit consistently to show some of the work I've been doing. Now working on Week 4 and Week 5 before this coming Saturday.
+
+# Skills
+GenAI Architecting, LLMs, ChatGPT, Anthropic Claude, Ollama, Backend, API, JSON, Testing, Frontend, OPEA, Docker, Kubernetes, Python, Amazon Bedrock, Microservices
