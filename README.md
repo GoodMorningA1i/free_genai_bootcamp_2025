@@ -40,5 +40,10 @@ Tues, March 4, 2025
 
 Lots and lots of catching up. Wrapped up week 2 over the weekend and submitted week 3 today. Not completed, but at least trying to submit consistently to show some of the work I've been doing. Now working on Week 4 and Week 5 before this coming Saturday.
 
+## Week 5 Standup
+Tues, March 11, 2025
+
+Caught up on videos! Main focus this past week was OPEA and how to leverage this with Docker. With all of this knowledge and practical exercises, I do want to build a MVP (minimum viable product) of my own. I'm thinking of translating a GenAI feature into a mobile app. I currently work as an iOS Developer so I thought this would be a great learning experience to further enhance my mobile development skills while also learning more about generative AI. Let's see how far I get into it. 
+
 # Skills
 GenAI Architecting, LLMs, ChatGPT, Anthropic Claude, Ollama, Backend, API, JSON, Testing, Frontend, OPEA, Docker, Python, Amazon Bedrock, Microservices
