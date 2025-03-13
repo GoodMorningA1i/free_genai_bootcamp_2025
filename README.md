@@ -1,6 +1,13 @@
 # GenAI Bootcamp 2025
 
-## Week 1 Standup
+## Skills
+GenAI Architecting, LLMs, ChatGPT, Anthropic Claude, Ollama, Backend, API, JSON, Testing, Frontend, OPEA, Docker, Python, Amazon Bedrock, Microservices
+
+## Journal Entries
+
+Week by week progress journal
+
+### Week 1 Standup
 Sat, Feb 8, 2025
 
 **What you accomplished during the bootcamp week?**
@@ -23,27 +30,24 @@ Learning Japanese was looking like a steep learning curve for me. I decided to c
 1. I am still unsure about some machine learning terminology. I've been taking Andrew Ng's machine learning specialization course on the side to gain a better understanding.
 2. Using free tier versions of LLM. I do want the full capability of the model, but I don't want to fall into the trap of using money to solve my problems. I've been exploring free versions before investing into models with money. This is a work in progress.
 
-## Week 2 Standup
+### Week 2 Standup
 Fri, Feb 21, 2025
 
 Getting to this standup quite late, I should technically be wrapping up with Week 3 right now. I wrote the backend and frontend technical requiremenets, and I started working on some of the backend code. It was really interesting to see Windsurf leverage the techincal requirements to do some of the backend work for me. I'm curious to see how it would do the same for the frontend. Unfortunately, I need to start moving along with Week 3 and then Week 4 starting tomorrow. So I'll probably just use the standard backend and frontend that Andrew created. I'll begin Week 3 and Week 4 work by Monday. I should be clear of my other commitments by then.
 
-## Week 3 Standup
+### Week 3 Standup
 Sat, Feb 22, 2025
 
 Not much of an update since yesterday. Will be rigourously catching up on Week 3 and Week 4 this coming week. Attended both lectures, watched most of the videos for Week 3. Didn't get the chance to implement the Language Learning App though from Week 3. We had Week 4 lecture today and saw some cool topics covered with James. We went over Kubernetes, Docker, the concepts of containers, and creating service classes. Can't wait to get started on this.
 
 Note: I think the lectures are 0-index based. So Week 1 was referred to Week 0 and Week 4 is referred to Week 3. I'm just sticking with 1-indexed based xD
 
-## Week 4 Standup
+### Week 4 Standup
 Tues, March 4, 2025
 
 Lots and lots of catching up. Wrapped up week 2 over the weekend and submitted week 3 today. Not completed, but at least trying to submit consistently to show some of the work I've been doing. Now working on Week 4 and Week 5 before this coming Saturday.
 
-## Week 5 Standup
+### Week 5 Standup
 Tues, March 11, 2025
 
 Caught up on videos! Main focus this past week was OPEA and how to leverage this with Docker. With all of this knowledge and practical exercises, I do want to build a MVP (minimum viable product) of my own. I'm thinking of translating a GenAI feature into a mobile app. I currently work as an iOS Developer so I thought this would be a great learning experience to further enhance my mobile development skills while also learning more about generative AI. Let's see how far I get into it. 
-
-# Skills
-GenAI Architecting, LLMs, ChatGPT, Anthropic Claude, Ollama, Backend, API, JSON, Testing, Frontend, OPEA, Docker, Python, Amazon Bedrock, Microservices
