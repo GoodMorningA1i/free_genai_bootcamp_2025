@@ -51,3 +51,12 @@ Lots and lots of catching up. Wrapped up week 2 over the weekend and submitted w
 Tues, March 11, 2025
 
 Caught up on videos! Main focus this past week was OPEA and how to leverage this with Docker. With all of this knowledge and practical exercises, I do want to build a MVP (minimum viable product) of my own. I'm thinking of translating a GenAI feature into a mobile app. I currently work as an iOS Developer so I thought this would be a great learning experience to further enhance my mobile development skills while also learning more about generative AI. Let's see how far I get into it. 
+
+### Week 6 Standup
+Mon, March 17, 2025
+
+Alright! Final journal. I've decided to wrap up my work on this project. I didn't work on the iOS app I talked about last week, it felt a big task for one week so I decided to leave that. These past 6 weeks were eye-opening to say the very least. Technologies that seemed like foreign languages before, now seem a lot more approachable. I thank ExamPro for giving me the opportunity to experiment and learn about GenAI. I feel a lot more confident tackling GenAI! 
+
+On the contrary, this course was packed. There was a lot of learning. We spent one week on backend and frontend, which is really hard to master in such a short period of time. At the University of Toronto, there was an entire course (4 months) for web development and I was fortunate to have previous web dev experience to carry me through those steep learning curves. While this was overwheleming in some aspects, it was also pretty fun as long as you were consistent with the work. First of all, there were a lot of resources available. Hats off to Andrew Brown for all the video recordings he posted including hours of debugging code. Second of all, learning a little about everything is a great way to gain a big picture idea of how a system works. I've been learning one topic at a time and would go into the theory of neural networks. Getting my hands dirty and widening my perspective was a nice change. 
+
+That's all I really have to say. I did mainly work from Andrew's videos. There isn't any projects in here that I truly coded from scratch. And I think that's okay! I learned a bunch, tried to consistently do something every week (even if 1-2 weeks were very minimal), and ready to move forward with my next project :)
