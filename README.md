@@ -1,7 +1,10 @@
 # GenAI Bootcamp 2025
 
+## Demo
+
+
 ## Skills
-GenAI Architecting, LLMs, ChatGPT, Anthropic Claude, Ollama, Backend, API, JSON, Testing, Frontend, OPEA, Docker, Python, Amazon Bedrock, Microservices
+GenAI Architecting, LLMs, ChatGPT, Anthropic Claude, Ollama, Backend (Python, Flask), API, JSON, Testing, Frontend (React), OPEA, Docker, Amazon Bedrock, Microservices
 
 ## Journal Entries
 
