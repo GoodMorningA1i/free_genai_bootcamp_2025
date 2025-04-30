@@ -1,7 +1,10 @@
-# GenAI Bootcamp 2025
+# AI Language Learning Tutor
 
 ## Demo
 
+https://youtu.be/3ZS4C-GybDQ
+
+<img width="865" alt="Screenshot 2025-04-29 at 11 44 31 PM" src="https://github.com/user-attachments/assets/63e19cdf-4515-4118-8a53-d19cd8fd1d34" />
 
 ## Skills
 GenAI Architecting, LLMs, ChatGPT, Anthropic Claude, Ollama, Backend (Python, Flask), API, JSON, Testing, Frontend (React), OPEA, Docker, Amazon Bedrock, Microservices
@@ -48,7 +51,7 @@ Note: I think the lectures are 0-index based. So Week 1 was referred to Week 0 a
 ### Week 4 Standup
 Tues, March 4, 2025
 
-Lots and lots of catching up. Wrapped up week 2 over the weekend and submitted week 3 today. Not completed, but at least trying to submit consistently to show some of the work I've been doing. Now working on Week 4 and Week 5 before this coming Saturday.
+Lots and lots of catching up. Wrapped up week 2 over the weekend and submitted week 3 today. Not completed, but at least trying to submit consistently to show some of the work I've been doing. The goal was for the AI to teach Urdu, but there were a lot more resources (APIs) for Japanese which is what I completed for this week. Now working on Week 4 and Week 5 before this coming Saturday.
 
 ### Week 5 Standup
 Tues, March 11, 2025
